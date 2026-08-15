@@ -1,0 +1,12 @@
+*.iml
+.gradle/
+local.properties
+.idea/
+.DS_Store
+build/
+captures/
+.externalNativeBuild/
+.cxx/
+# 发布签名密钥与 APK 产物不入库（开源仓库不含私钥）
+keystore/
+release/
