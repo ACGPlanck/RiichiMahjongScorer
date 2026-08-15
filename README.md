@@ -11,10 +11,6 @@
 - **自动判定**：全部常用番型 + 役满（含双倍役满、累计役满开关）
 - **输出**：番型列表、合计番数、符数、点数（荣和/自摸分别展示支付方式）
 
-## 直接安装 APK
-
-已签名 APK 随 GitHub Releases 发布：https://github.com/ACGPlanck/RiichiMahjongScorer/releases （约 5.6 MB，release 签名，可直接安装或 `adb install -r` 覆盖升级）。发布签名密钥仅保存在本地（`keystore/riichi-release.jks`，口令 `riichi123`，不入开源仓库），请妥善保管。
-
 ## 技术栈
 
 - Kotlin + Jetpack Compose（Material 3）
